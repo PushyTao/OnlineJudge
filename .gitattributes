@@ -1,0 +1,7 @@
+* text=auto
+*.blade.php linguist-vendored
+*.scss linguist-vendored
+*.js linguist-vendored
+CHANGELOG.md export-ignore
+
+public/static/* linguist-vendored
